@@ -1,0 +1,11 @@
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\ValidarCPF\bin\Debug\netcoreapp2.1\ValidarCPF.deps.json
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\ValidarCPF\bin\Debug\netcoreapp2.1\ValidarCPF.runtimeconfig.json
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\ValidarCPF\bin\Debug\netcoreapp2.1\ValidarCPF.runtimeconfig.dev.json
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\ValidarCPF\bin\Debug\netcoreapp2.1\ValidarCPF.dll
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\ValidarCPF\bin\Debug\netcoreapp2.1\ValidarCPF.pdb
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\ValidarCPF\obj\Debug\netcoreapp2.1\ValidarCPF.csprojAssemblyReference.cache
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\ValidarCPF\obj\Debug\netcoreapp2.1\ValidarCPF.csproj.CoreCompileInputs.cache
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\ValidarCPF\obj\Debug\netcoreapp2.1\ValidarCPF.AssemblyInfoInputs.cache
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\ValidarCPF\obj\Debug\netcoreapp2.1\ValidarCPF.AssemblyInfo.cs
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\ValidarCPF\obj\Debug\netcoreapp2.1\ValidarCPF.dll
+C:\Users\kaique.csilva8\CSharp\PrimeiroPassos\ValidarCPF\obj\Debug\netcoreapp2.1\ValidarCPF.pdb
